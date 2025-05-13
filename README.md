@@ -10,6 +10,7 @@ SCRIPT GIVES YOU 5 SECONDS UPON EXECUTION BEFORE IT GOES
 Installation 🛠️
 simply download the dist.rar file shown below
 Extract the folder, to your desktop
+
 to compile source code you need to execute runner .bat
 
 **If you want to support my work and my delevoping skills you can donate me**
