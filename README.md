@@ -14,5 +14,7 @@ to compile source code you need to execute runner .bat
 
 **If you want to support my work and my delevoping skills you can donate me**
 card - 4678080030109586
+
 CryptoWallet(TRX, Tron, TRC20)
+
 pay pal - g.osypenko@gmail.com
