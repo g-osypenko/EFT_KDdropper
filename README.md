@@ -1,4 +1,6 @@
 source code for EFT_KDdropper (see .exe in releases)
+Video with work on youtube - https://youtu.be/rmZI8GbvpR8
+
 MUST READ
 Hard-Logic Game Dependencies THAT MUST BE ENABLED AND CONFIGURED FOR CORRECT FUNCTIONS.
 
@@ -23,3 +25,5 @@ card - 4678080030109586
 CryptoWallet(TRX, Tron, TRC20) - THwuDTbbYSw4BpmWTevTpycxGTUvzfZ8dT
 
 pay pal - g.osypenko@gmail.com
+
+![KDdropMenu](https://github.com/user-attachments/assets/63ff464e-4402-48ae-8ece-7463f5c5a578)
